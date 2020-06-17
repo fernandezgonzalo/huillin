@@ -1,0 +1,7 @@
+[{"constant": true,
+  "inputs": [],
+  "name": "currency",
+  "outputs": [{"internalType": "bytes32", "name": "", "type": "bytes32"}],
+  "payable": false,
+  "stateMutability": "view",
+  "type": "function"}]
